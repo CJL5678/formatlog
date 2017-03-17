@@ -1,3 +1,9 @@
 # formatlog
 
 演示衍合（rebase）与普通合并（merge）的区别
+
+演示一个合并的流程
+
+master 分支进行了第一次提交
+
+
